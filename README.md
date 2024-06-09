@@ -5,9 +5,13 @@ Este e-book de 9 páginas aborda o potencial das IAs na tradução de obras de m
 
 ## 🤖 Tecnologias Utilizadas
 Amazon Titan Text G1 - Premier através da Amazon Bedrock para geração de texto a partir dos parâmetros oferecidos;
+
 Amazon Titan Image Generator G1 através da Amazon Bedrock para geração das imagens que integram o e-book;
+
 Microsoft Word 2016 para edição do texto;
+
 Canva Pro para edição do e-book;
+
 Google Drive para armazenamento e compartilhamento do link do e-book.
 
 ## 🧐 Processo de Criação

@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A arte da tradução: como a IA preserva a essência original do anime e do mangá.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 9 páginas aborda o potencial das IAs na tradução de obras de mangás e animes, preservando a essencia da obra originalmente escrita.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Amazon Titan Text G1 - Premier através da Amazon Bedrock para geração de texto a partir dos parâmetros oferecidos;
+Amazon Titan Image Generator G1 através da Amazon Bedrock para geração das imagens que integram o e-book;
+Microsoft Word 2016 para edição do texto;
+Canva Pro para edição do e-book;
+Google Drive para armazenamento e compartilhamento do link do e-book.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Tradução de animes é um assunto que me envolve pessoalmente há algum tempo. Com a atividade sugerida pela DIO neste projeto, pude escrever um pouco sobre o assunto que já pesquisava há algum tempo, com o auxílio de tecnologias de IA disponibilizadas na AWS, especificamente no Amazon Bedrock, que me ajudaram a roteirizar e aprimorar o texto, além da geração de imagens únicas para o projeto e a estruturação do layout do e-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo único e envolvente que demonstra como as IAs Genativas podem ser ferramentas poderosas na tradução de obras estrangeiras e mais, como podem auxiliar um autor ou tradutor em cada passo necessário para tirar sua obra do plano das ideias.
+
+Link do e-book https://drive.google.com/file/d/14hsfiIbTPMm3ieteReRmMUze2b-kcW6V/view?usp=drive_link
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Todo o desenvolvimento deste projeto, desde a escolha das ferramentas até o desenvolvimento do assunto principal foi uma experiência única e inovadora que me fez perceber pessoalmente o potencial das IAs generativas de formas que jamais havia pensando antes.
